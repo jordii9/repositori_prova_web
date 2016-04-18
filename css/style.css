@@ -10,14 +10,14 @@
 /* Basic */
 
 	body, #skel-layers-wrapper {
-		background: #f3f6fa;
+		background: url(../images/logo.jpg);
 	}
 
 	body.is-loading * {
 		-moz-animation: none !important;
 		-webkit-animation: none !important;
 		-o-animation: none !important;
-		-ms-animation: none !important;
+		-ms-animation: none !important;/
 		animation: none !important;
 		-moz-transition: none !important;
 		-webkit-transition: none !important;
@@ -27,13 +27,14 @@
 	}
 
 	body, input, select, textarea {
-		color: #7c8081;
+		color: black;
 		font-family: 'Lato', sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
 		letter-spacing: 0.025em;
 		line-height: 1.75em;
-	}
+		background:green;
+		}
 
 	a {
 		-moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
@@ -105,7 +106,8 @@
 		font-style: italic;
 		padding: 1em 0 1em 2em;
 	}
-
+	
+	
 /* Section/Article */
 
 	section.special, article.special {
@@ -590,14 +592,15 @@
 				color: #83d3c9 !important;
 			}
 
-				.wrapper.style2 .button.special:hover {
+				.wrapper.style2 .button.special:hover {#0000FF
 					border-color: inherit !important;
 					color: white !important;
 				}
 
 		.wrapper.style3 {
-			background: white;
+			background:#1A65B8;
 			color: inherit;
+			border: green;
 		}
 
 		.wrapper.style4 {
@@ -614,9 +617,9 @@
 	@keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 
 	#header {
-		background: white;
+		background: url(../images/index.jpg);
 		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.075);
-		color: inherit;
+		color: #7c8081;
 		cursor: default;
 		font-size: 0.8em;
 		left: 0;
@@ -920,7 +923,7 @@
 /* Footer */
 
 	#footer {
-		background: #e8eef4;
+		background: url(../images/arena.jpg);
 		color: #7c8081;
 		padding: 5em 5em 10em 5em;
 		text-align: center;
