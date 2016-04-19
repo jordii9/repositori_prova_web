@@ -164,6 +164,7 @@ layout: landing-page
 		<!-- CTA -->
 			<section id="cta">
 			
+<!--
 				<header>
 					<h2>Ready to do <strong>something</strong>?</h2>
 					<p>Proin a ullamcorper elit, et sagittis turpis integer ut fermentum.</p>
@@ -174,5 +175,19 @@ layout: landing-page
 						<li><a href="#" class="button">LOL Wut</a></li>
 					</ul>
 				</footer>
+-->
 			
 			</section>
+    <section class="wrapper style4 container">
+        <ul class="posts">
+          {% for page in site.pages %}
+            <li class="wrapper {% if forloop.first %} style2 {% else %} style1 {% endif %}">
+              <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+                {{ page.excerpt }}
+                <section class="special">
+                    <ul class="buttons">
+                        <li><a href="{{ page.url }}" class="button">Read more</a></li>
+                    </ul></section>
+            </li>
+          {% endfor %}
+        </ul>
