@@ -1,14 +1,12 @@
 # Site settings
-title: Twenty Blog
-email: your-email@domain.com
+title: El meu blog de masquet
+email: Jordibasktbdn9@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Simplement és el meu blog de basquet els que us agrada el disfrutareu!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://locahost:4000" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+
+github_username:  jordii9
 
 # Build settings
 markdown: kramdown

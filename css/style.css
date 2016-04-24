@@ -737,17 +737,19 @@
 .post-next {
     float: right;
     margin-right: 3em;
+    color:#1A65B8;
 }
 
 .post-prev {
     float: left;
     margin-left: 3em;
+    color:#1A65B8;
 }
 
 /* Dropotron */
 
 	.dropotron {
-		background: #fff;
+		background:#1A65B8;
 		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.075);
 		line-height: 2.25em;
 		min-width: 13em;
@@ -757,6 +759,7 @@
 	}
 
 		.dropotron.level-0 {
+			
 			font-size: 0.7em;
 			font-weight: 400;
 			margin-top: 1.5em;

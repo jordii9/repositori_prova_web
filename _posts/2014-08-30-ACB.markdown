@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "ACB"
+date:   2014-09-07 14:36:23
+categories: Duis
+---
+<span class="image featured"><img src="/images/pic01.jpg" alt=""></span>
+Post de la acb
+
+Aquest any la lliga acb tan per la part de adalt com per la part d'abaix esta mol disputada, arriva el final de la temporada, i ara és quan s'ha de fer el sprint final despres d'una carrera de fons mol llarga.
+
+Tota la feina feta fins ara pot ser o pot no servir de res si aquest últims partits no es dona la tall.
+
+Per la part de adalt, el barça el valencia i el madrid es disputen el liderat i per la part baixa els equips implicats per el descens lluiten per no baixar de categoria.
+
+Pero això no es tot, la resta de equips estan lliutan per els ultims billets i per obtenir la millor posicio de cara els playoff que digui el que es digui, és la part decisiva de la temporada.
+
+![equips](/images/acb.jpg)
+
+Aqui hi deixo la web oficial!
+[ACB](http://acb.com/)
