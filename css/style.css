@@ -570,6 +570,9 @@
 	}
 
 		.wrapper.style1 {
+/*
+			background-color:#1A65B8;
+*/
 			padding: 0;
 		}
 
@@ -604,7 +607,7 @@
 		}
 
 		.wrapper.style4 {
-			background: white;
+			background: #1A65B8;
 			color: inherit;
 			padding: 4em;
 		}
